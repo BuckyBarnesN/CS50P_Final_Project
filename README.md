@@ -19,15 +19,15 @@ The project is structured as follows:
 5. **Readme**
     - [README.md](./README.md)
 6. **Outputs**
-    - [rep_schemes.png](./rep_schemes.png)
-    - [bodyparts_worked.png](./bodyparts_worked.png)
-    - [Back Squat_progression.png](./Back%20Squat_progression.png)
-    - [Bench Press_progression.png](./Bench%20Press_progression.png)
-    - [Deadlift_progression.png](./Deadlift_progression.png)
-    - [Overhead Press_progression.png](./Overhead%20Press_progression.png)
-    - [front_vs_back_squat.png](./front_vs_back_squat.png)
-    - [Lifts_Ratio.png](./Lifts_Ratio.png)
-    - [top_exercises.png](./top_exercises.png)
+    - [rep_schemes.png](./charts/rep_schemes.png)
+    - [bodyparts_worked.png](./charts/bodyparts_worked.png)
+    - [Back Squat_progression.png](./charts/Back%20Squat_progression.png)
+    - [Bench Press_progression.png](./charts/Bench%20Press_progression.png)
+    - [Deadlift_progression.png](./charts/Deadlift_progression.png)
+    - [Overhead Press_progression.png](./charts/Overhead%20Press_progression.png)
+    - [front_vs_back_squat.png](./charts/front_vs_back_squat.png)
+    - [Lifts_Ratio.png](./charts/Lifts_Ratio.png)
+    - [top_exercises.png](./charts/top_exercises.png)
 
 The following insights are presented:
 - What rep ranges do i work with?
@@ -77,18 +77,18 @@ Then function [cleanup_2(data)](./project.py) then also removes duplicates from 
 
 ## Some insights gained from this analysis ##
 
-![My 5 most frequently performed exercises](./top_exercises.png)
+![My 5 most frequently performed exercises](./charts/top_exercises.png)
 
 ```
 This makes sense as I am doing strength focused training with focus on Squats squatting 3 x week rotating between front and back squats.
 ```
-![Ratio of OHP:Bench:Squat:Deadlift](./Lifts_Ratio.png)
+![Ratio of OHP:Bench:Squat:Deadlift](./charts/Lifts_Ratio.png)
 
 ```
 My Back Squat is catching up to Deadlift as i deadlift seldom. I overhead press half of my squat which is an optimal ratio but from the figure, I can see that my bench is lacking.
 ```
 
-![progression on front and back squat](./front_vs_back_squat.png)
+![progression on front and back squat](./charts/front_vs_back_squat.png)
 
 ```
 This shows that I back squat more than I front squat. The difference between the two lifts mostly lie in 10 kg regions.
