@@ -1,0 +1,498 @@
+2023-05-15,Barbell Squat,Legs,75.0,3
+2023-05-15,Barbell Squat,Legs,75.0,2
+2023-05-15,Barbell Front Squat,Legs,52.5,5
+2023-05-15,Flat Barbell Bench Press,Chest,40.0,10
+2023-05-17,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-05-17,Overhead Press,Shoulders,37.5,5
+2023-06-06,Barbell Front Squat,Legs,62.5,4
+2023-06-06,Barbell Front Squat,Legs,62.5,2
+2023-06-06,Barbell Front Squat,Legs,62.5,1
+2023-06-06,Flat Barbell Bench Press,Chest,50.0,5
+2023-06-06,Deadlift,Legs and Back (Deadlift(variation)),95.0,3
+2023-06-15,Overhead Press,Shoulders,37.5,5
+2023-06-15,Neutral Chin Up,Back,0.0,2
+2023-06-19,Barbell Front Squat,Legs,65.0,3
+2023-06-19,Flat Barbell Bench Press,Chest,45.0,5
+2023-06-19,Flat Barbell Bench Press,Chest,45.0,11
+2023-06-19,Deadlift,Legs and Back (Deadlift(variation)),75.0,5
+2023-06-24,Barbell Front Squat,Legs,65.0,3
+2023-06-24,Barbell Front Squat,Legs,65.0,2
+2023-06-24,Overhead Press,Shoulders,40.0,5
+2023-06-24,Overhead Press,Shoulders,40.0,4
+2023-06-26,Barbell Squat,Legs,67.5,5
+2023-06-26,Flat Barbell Bench Press,Chest,47.5,5
+2023-06-26,Flat Barbell Bench Press,Chest,47.5,8
+2023-06-26,Deadlift,Legs and Back (Deadlift(variation)),82.5,3
+2023-06-26,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),72.5,5
+2023-06-28,Barbell Front Squat,Legs,65.0,5
+2023-06-28,Overhead Press,Shoulders,35.0,5
+2023-06-28,Overhead Press,Shoulders,35.0,7
+2023-07-01,Barbell Squat,Legs,70.0,5
+2023-07-01,Flat Barbell Bench Press,Chest,50.0,5
+2023-07-01,Flat Barbell Bench Press,Chest,50.0,6
+2023-07-01,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),77.5,5
+2023-07-01,Deadlift,Legs and Back (Deadlift(variation)),77.5,5
+2023-07-03,Barbell Squat,Legs,72.5,5
+2023-07-03,Overhead Press,Shoulders,37.5,5
+2023-07-03,Overhead Press,Shoulders,37.5,6
+2023-07-06,Barbell Front Squat,Legs,67.5,3
+2023-07-06,Flat Barbell Bench Press,Chest,50.0,5
+2023-07-06,Flat Barbell Bench Press,Chest,50.0,8
+2023-07-06,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-07-08,Barbell Squat,Legs,75.0,5
+2023-07-08,Overhead Press,Shoulders,40.0,4
+2023-07-08,Overhead Press,Shoulders,40.0,1
+2023-07-08,Overhead Press,Shoulders,32.5,8
+2023-07-08,Overhead Press,Shoulders,32.5,3
+2023-07-08,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),72.5,8
+2023-07-08,Deadlift,Legs and Back (Deadlift(variation)),72.5,5
+2023-07-10,Barbell Squat,Legs,77.5,5
+2023-07-10,Flat Barbell Bench Press,Chest,52.5,5
+2023-07-10,Flat Barbell Bench Press,Chest,52.5,4
+2023-07-12,Barbell Front Squat,Legs,70.0,3
+2023-07-12,Overhead Press,Shoulders,37.5,5
+2023-07-12,Deadlift,Legs and Back (Deadlift(variation)),95.0,5
+2023-07-15,Barbell Squat,Legs,80.0,3
+2023-07-15,Barbell Squat,Legs,72.5,4
+2023-07-15,Barbell Front Squat,Legs,52.5,5
+2023-07-15,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),80.0,5
+2023-07-15,Deadlift,Legs and Back (Deadlift(variation)),72.5,8
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,10
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,7
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,6
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,5
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,6
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,8
+2023-07-17,Deadlift,Legs and Back (Deadlift(variation)),97.5,5
+2023-07-17,Barbell Front Squat,Legs,60.0,6
+2023-07-17,Barbell Front Squat,Legs,60.0,4
+2023-07-17,Barbell Front Squat,Legs,60.0,2
+2023-07-19,Barbell Squat,Legs,72.5,5
+2023-07-19,Barbell Front Squat,Legs,55.0,8
+2023-07-21,Deadlift,Legs and Back (Deadlift(variation)),100.0,5
+2023-07-21,Deadlift,Legs and Back (Deadlift(variation)),82.5,8
+2023-07-21,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),82.5,5
+2023-07-21,Incline Dumbbell Bench Press,Chest,17.5,10
+2023-07-21,Lat Pulldown,Back,55.0,10
+2023-07-21,Lat Pulldown,Back,55.0,8
+2023-07-21,Lat Pulldown,Back,50.0,10
+2023-07-21,Overhead Press,Shoulders,27.5,10
+2023-07-21,Overhead Press,Shoulders,27.5,8
+2023-07-24,Overhead Press,Shoulders,37.5,5
+2023-07-24,Overhead Press,Shoulders,37.5,4
+2023-07-31,Barbell Squat,Legs,67.5,5
+2023-07-31,Barbell Front Squat,Legs,62.5,5
+2023-07-31,Incline Dumbbell Bench Press,Chest,17.5,10
+2023-07-31,Incline Dumbbell Bench Press,Chest,17.5,7
+2023-07-31,Romanian Deadlift,Legs,60.0,10
+2023-07-31,Romanian Deadlift,Legs,60.0,12
+2023-08-04,Barbell Front Squat,Legs,67.5,5
+2023-09-02,Barbell Front Squat,Legs,70.0,5
+2023-09-02,Barbell Front Squat,Legs,70.0,3
+2023-09-02,Barbell Front Squat,Legs,70.0,2
+2023-09-02,Barbell Squat,Legs,67.5,4
+2023-09-02,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-04,Barbell Squat,Legs,75.0,5
+2023-09-04,Overhead Press,Shoulders,37.5,5
+2023-09-04,Pendlay Row,Back,42.5,10
+2023-09-04,Romanian Deadlift,Legs,42.5,10
+2023-09-06,Barbell Squat,Legs,77.5,5
+2023-09-06,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-08,Barbell Squat,Legs,80.0,5
+2023-09-08,Overhead Press,Shoulders,40.0,5
+2023-09-08,Overhead Press,Shoulders,40.0,4
+2023-09-08,Deadlift,Legs and Back (Deadlift(variation)),92.5,3
+2023-09-11,Barbell Squat,Legs,82.5,5
+2023-09-11,Barbell Squat,Legs,82.5,2
+2023-09-11,Barbell Front Squat,Legs,62.5,5
+2023-09-11,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-13,Barbell Front Squat,Legs,67.5,5
+2023-09-13,Barbell Squat,Legs,52.5,15
+2023-09-13,Overhead Press,Shoulders,40.0,5
+2023-09-15,Barbell Squat,Legs,77.5,5
+2023-09-15,Barbell Squat,Legs,80.0,5
+2023-09-15,Barbell Front Squat,Legs,62.5,7
+2023-09-15,Barbell Front Squat,Legs,62.5,5
+2023-09-18,Barbell Squat,Legs,62.5,5
+2023-09-18,Barbell Squat,Legs,67.5,1
+2023-09-18,Barbell Squat,Legs,72.5,1
+2023-09-18,Barbell Squat,Legs,77.5,1
+2023-09-18,Barbell Squat,Legs,82.5,1
+2023-09-18,Barbell Squat,Legs,87.5,1
+2023-09-18,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-09-18,Flat Dumbbell Bench Press,Chest,17.5,11
+2023-09-18,Flat Dumbbell Bench Press,Chest,20.0,8
+2023-09-19,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-09-21,Barbell Squat,Legs,72.5,3
+2023-09-21,Barbell Squat,Legs,82.5,1
+2023-09-21,Barbell Squat,Legs,87.5,1
+2023-09-21,Barbell Squat,Legs,72.5,5
+2023-09-21,Overhead Press,Shoulders,37.5,4
+2023-09-21,Overhead Press,Shoulders,37.5,5
+2023-09-21,Overhead Press,Shoulders,37.5,3
+2023-09-21,Incline Dumbbell Bench Press,Chest,17.5,8
+2023-09-22,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),82.5,5
+2023-09-25,Barbell Front Squat,Legs,70.0,5
+2023-09-25,Barbell Squat,Legs,52.5,20
+2023-09-26,Push Press,Shoulders,42.5,5
+2023-09-26,Push Press,Shoulders,42.5,4
+2023-09-27,Barbell Squat,Legs,77.5,3
+2023-09-27,Barbell Squat,Legs,72.5,4
+2023-09-27,Barbell Squat,Legs,72.5,5
+2023-09-27,Barbell Squat,Legs,62.5,8
+2023-09-27,Barbell Front Squat,Legs,42.5,15
+2023-09-27,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-09-27,Flat Dumbbell Bench Press,Chest,20.0,6
+2023-09-27,Flat Dumbbell Bench Press,Chest,20.0,5
+2023-09-27,Pendlay Row,Back,50.0,7
+2023-09-27,Pendlay Row,Back,40.0,10
+2023-09-27,Pendlay Row,Back,40.0,12
+2023-09-30,Barbell Squat,Legs,80.0,5
+2023-09-30,Overhead Press,Shoulders,32.5,8
+2023-09-30,Overhead Press,Shoulders,32.5,6
+2023-09-30,Push Press,Shoulders,37.5,5
+2023-09-30,Push Press,Shoulders,42.5,3
+2023-09-30,Lat Pulldown,Back,55.0,9
+2023-09-30,Lat Pulldown,Back,55.0,7
+2023-10-02,Barbell Front Squat,Legs,72.5,5
+2023-10-02,Flat Barbell Bench Press,Chest,52.5,5
+2023-10-02,Flat Barbell Bench Press,Chest,52.5,7
+2023-10-09,Barbell Squat,Legs,72.5,5
+2023-10-09,Barbell Squat,Legs,72.5,3
+2023-10-09,Barbell Squat,Legs,72.5,1
+2023-10-09,Overhead Press,Shoulders,32.5,10
+2023-10-09,Overhead Press,Shoulders,32.5,8
+2023-10-09,Overhead Press,Shoulders,32.5,7
+2023-05-15,Barbell Squat,Legs,75.0,3
+2023-05-15,Barbell Squat,Legs,75.0,2
+2023-05-15,Barbell Front Squat,Legs,52.5,5
+2023-05-15,Flat Barbell Bench Press,Chest,40.0,10
+2023-05-17,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-05-17,Overhead Press,Shoulders,37.5,5
+2023-06-06,Barbell Front Squat,Legs,62.5,4
+2023-06-06,Barbell Front Squat,Legs,62.5,2
+2023-06-06,Barbell Front Squat,Legs,62.5,1
+2023-06-06,Flat Barbell Bench Press,Chest,50.0,5
+2023-06-06,Deadlift,Legs and Back (Deadlift(variation)),95.0,3
+2023-06-15,Overhead Press,Shoulders,37.5,5
+2023-06-15,Neutral Chin Up,Back,0.0,2
+2023-06-19,Barbell Front Squat,Legs,65.0,3
+2023-06-19,Flat Barbell Bench Press,Chest,45.0,5
+2023-06-19,Flat Barbell Bench Press,Chest,45.0,11
+2023-06-19,Deadlift,Legs and Back (Deadlift(variation)),75.0,5
+2023-06-24,Barbell Front Squat,Legs,65.0,3
+2023-06-24,Barbell Front Squat,Legs,65.0,2
+2023-06-24,Overhead Press,Shoulders,40.0,5
+2023-06-24,Overhead Press,Shoulders,40.0,4
+2023-06-26,Barbell Squat,Legs,67.5,5
+2023-06-26,Flat Barbell Bench Press,Chest,47.5,5
+2023-06-26,Flat Barbell Bench Press,Chest,47.5,8
+2023-06-26,Deadlift,Legs and Back (Deadlift(variation)),82.5,3
+2023-06-26,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),72.5,5
+2023-06-28,Barbell Front Squat,Legs,65.0,5
+2023-06-28,Overhead Press,Shoulders,35.0,5
+2023-06-28,Overhead Press,Shoulders,35.0,7
+2023-07-01,Barbell Squat,Legs,70.0,5
+2023-07-01,Flat Barbell Bench Press,Chest,50.0,5
+2023-07-01,Flat Barbell Bench Press,Chest,50.0,6
+2023-07-01,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),77.5,5
+2023-07-01,Deadlift,Legs and Back (Deadlift(variation)),77.5,5
+2023-07-03,Barbell Squat,Legs,72.5,5
+2023-07-03,Overhead Press,Shoulders,37.5,5
+2023-07-03,Overhead Press,Shoulders,37.5,6
+2023-07-06,Barbell Front Squat,Legs,67.5,3
+2023-07-06,Flat Barbell Bench Press,Chest,50.0,5
+2023-07-06,Flat Barbell Bench Press,Chest,50.0,8
+2023-07-06,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-07-08,Barbell Squat,Legs,75.0,5
+2023-07-08,Overhead Press,Shoulders,40.0,4
+2023-07-08,Overhead Press,Shoulders,40.0,1
+2023-07-08,Overhead Press,Shoulders,32.5,8
+2023-07-08,Overhead Press,Shoulders,32.5,3
+2023-07-08,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),72.5,8
+2023-07-08,Deadlift,Legs and Back (Deadlift(variation)),72.5,5
+2023-07-10,Barbell Squat,Legs,77.5,5
+2023-07-10,Flat Barbell Bench Press,Chest,52.5,5
+2023-07-10,Flat Barbell Bench Press,Chest,52.5,4
+2023-07-12,Barbell Front Squat,Legs,70.0,3
+2023-07-12,Overhead Press,Shoulders,37.5,5
+2023-07-12,Deadlift,Legs and Back (Deadlift(variation)),95.0,5
+2023-07-15,Barbell Squat,Legs,80.0,3
+2023-07-15,Barbell Squat,Legs,72.5,4
+2023-07-15,Barbell Front Squat,Legs,52.5,5
+2023-07-15,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),80.0,5
+2023-07-15,Deadlift,Legs and Back (Deadlift(variation)),72.5,8
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,10
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,7
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,6
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,5
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,6
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,8
+2023-07-17,Deadlift,Legs and Back (Deadlift(variation)),97.5,5
+2023-07-17,Barbell Front Squat,Legs,60.0,6
+2023-07-17,Barbell Front Squat,Legs,60.0,4
+2023-07-17,Barbell Front Squat,Legs,60.0,2
+2023-07-19,Barbell Squat,Legs,72.5,5
+2023-07-19,Barbell Front Squat,Legs,55.0,8
+2023-07-21,Deadlift,Legs and Back (Deadlift(variation)),100.0,5
+2023-07-21,Deadlift,Legs and Back (Deadlift(variation)),82.5,8
+2023-07-21,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),82.5,5
+2023-07-21,Incline Dumbbell Bench Press,Chest,17.5,10
+2023-07-21,Lat Pulldown,Back,55.0,10
+2023-07-21,Lat Pulldown,Back,55.0,8
+2023-07-21,Lat Pulldown,Back,50.0,10
+2023-07-21,Overhead Press,Shoulders,27.5,10
+2023-07-21,Overhead Press,Shoulders,27.5,8
+2023-07-24,Overhead Press,Shoulders,37.5,5
+2023-07-24,Overhead Press,Shoulders,37.5,4
+2023-07-31,Barbell Squat,Legs,67.5,5
+2023-07-31,Barbell Front Squat,Legs,62.5,5
+2023-07-31,Incline Dumbbell Bench Press,Chest,17.5,10
+2023-07-31,Incline Dumbbell Bench Press,Chest,17.5,7
+2023-07-31,Romanian Deadlift,Legs,60.0,10
+2023-07-31,Romanian Deadlift,Legs,60.0,12
+2023-08-04,Barbell Front Squat,Legs,67.5,5
+2023-09-02,Barbell Front Squat,Legs,70.0,5
+2023-09-02,Barbell Front Squat,Legs,70.0,3
+2023-09-02,Barbell Front Squat,Legs,70.0,2
+2023-09-02,Barbell Squat,Legs,67.5,4
+2023-09-02,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-04,Barbell Squat,Legs,75.0,5
+2023-09-04,Overhead Press,Shoulders,37.5,5
+2023-09-04,Pendlay Row,Back,42.5,10
+2023-09-04,Romanian Deadlift,Legs,42.5,10
+2023-09-06,Barbell Squat,Legs,77.5,5
+2023-09-06,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-08,Barbell Squat,Legs,80.0,5
+2023-09-08,Overhead Press,Shoulders,40.0,5
+2023-09-08,Overhead Press,Shoulders,40.0,4
+2023-09-08,Deadlift,Legs and Back (Deadlift(variation)),92.5,3
+2023-09-11,Barbell Squat,Legs,82.5,5
+2023-09-11,Barbell Squat,Legs,82.5,2
+2023-09-11,Barbell Front Squat,Legs,62.5,5
+2023-09-11,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-13,Barbell Front Squat,Legs,67.5,5
+2023-09-13,Barbell Squat,Legs,52.5,15
+2023-09-13,Overhead Press,Shoulders,40.0,5
+2023-09-15,Barbell Squat,Legs,77.5,5
+2023-09-15,Barbell Squat,Legs,80.0,5
+2023-09-15,Barbell Front Squat,Legs,62.5,7
+2023-09-15,Barbell Front Squat,Legs,62.5,5
+2023-09-18,Barbell Squat,Legs,62.5,5
+2023-09-18,Barbell Squat,Legs,67.5,1
+2023-09-18,Barbell Squat,Legs,72.5,1
+2023-09-18,Barbell Squat,Legs,77.5,1
+2023-09-18,Barbell Squat,Legs,82.5,1
+2023-09-18,Barbell Squat,Legs,87.5,1
+2023-09-18,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-09-18,Flat Dumbbell Bench Press,Chest,17.5,11
+2023-09-18,Flat Dumbbell Bench Press,Chest,20.0,8
+2023-09-19,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-09-21,Barbell Squat,Legs,72.5,3
+2023-09-21,Barbell Squat,Legs,82.5,1
+2023-09-21,Barbell Squat,Legs,87.5,1
+2023-09-21,Barbell Squat,Legs,72.5,5
+2023-09-21,Overhead Press,Shoulders,37.5,4
+2023-09-21,Overhead Press,Shoulders,37.5,5
+2023-09-21,Overhead Press,Shoulders,37.5,3
+2023-09-21,Incline Dumbbell Bench Press,Chest,17.5,8
+2023-09-22,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),82.5,5
+2023-09-25,Barbell Front Squat,Legs,70.0,5
+2023-09-25,Barbell Squat,Legs,52.5,20
+2023-09-26,Push Press,Shoulders,42.5,5
+2023-09-26,Push Press,Shoulders,42.5,4
+2023-09-27,Barbell Squat,Legs,77.5,3
+2023-09-27,Barbell Squat,Legs,72.5,4
+2023-09-27,Barbell Squat,Legs,72.5,5
+2023-09-27,Barbell Squat,Legs,62.5,8
+2023-09-27,Barbell Front Squat,Legs,42.5,15
+2023-09-27,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-09-27,Flat Dumbbell Bench Press,Chest,20.0,6
+2023-09-27,Flat Dumbbell Bench Press,Chest,20.0,5
+2023-09-27,Pendlay Row,Back,50.0,7
+2023-09-27,Pendlay Row,Back,40.0,10
+2023-09-27,Pendlay Row,Back,40.0,12
+2023-09-30,Barbell Squat,Legs,80.0,5
+2023-09-30,Overhead Press,Shoulders,32.5,8
+2023-09-30,Overhead Press,Shoulders,32.5,6
+2023-09-30,Push Press,Shoulders,37.5,5
+2023-09-30,Push Press,Shoulders,42.5,3
+2023-09-30,Lat Pulldown,Back,55.0,9
+2023-09-30,Lat Pulldown,Back,55.0,7
+2023-10-02,Barbell Front Squat,Legs,72.5,5
+2023-10-02,Flat Barbell Bench Press,Chest,52.5,5
+2023-10-02,Flat Barbell Bench Press,Chest,52.5,7
+2023-10-09,Barbell Squat,Legs,72.5,5
+2023-10-09,Barbell Squat,Legs,72.5,3
+2023-10-09,Barbell Squat,Legs,72.5,1
+2023-10-09,Overhead Press,Shoulders,32.5,10
+2023-10-09,Overhead Press,Shoulders,32.5,8
+2023-10-09,Overhead Press,Shoulders,32.5,7
+2023-05-15,Barbell Squat,Legs,75.0,3
+2023-05-15,Barbell Squat,Legs,75.0,2
+2023-05-15,Barbell Front Squat,Legs,52.5,5
+2023-05-15,Flat Barbell Bench Press,Chest,40.0,10
+2023-05-17,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-05-17,Overhead Press,Shoulders,37.5,5
+2023-06-06,Barbell Front Squat,Legs,62.5,4
+2023-06-06,Barbell Front Squat,Legs,62.5,2
+2023-06-06,Barbell Front Squat,Legs,62.5,1
+2023-06-06,Flat Barbell Bench Press,Chest,50.0,5
+2023-06-06,Deadlift,Legs and Back (Deadlift(variation)),95.0,3
+2023-06-15,Overhead Press,Shoulders,37.5,5
+2023-06-15,Neutral Chin Up,Back,0.0,2
+2023-06-19,Barbell Front Squat,Legs,65.0,3
+2023-06-19,Flat Barbell Bench Press,Chest,45.0,5
+2023-06-19,Flat Barbell Bench Press,Chest,45.0,11
+2023-06-19,Deadlift,Legs and Back (Deadlift(variation)),75.0,5
+2023-06-24,Barbell Front Squat,Legs,65.0,3
+2023-06-24,Barbell Front Squat,Legs,65.0,2
+2023-06-24,Overhead Press,Shoulders,40.0,5
+2023-06-24,Overhead Press,Shoulders,40.0,4
+2023-06-26,Barbell Squat,Legs,67.5,5
+2023-06-26,Flat Barbell Bench Press,Chest,47.5,5
+2023-06-26,Flat Barbell Bench Press,Chest,47.5,8
+2023-06-26,Deadlift,Legs and Back (Deadlift(variation)),82.5,3
+2023-06-26,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),72.5,5
+2023-06-28,Barbell Front Squat,Legs,65.0,5
+2023-06-28,Overhead Press,Shoulders,35.0,5
+2023-06-28,Overhead Press,Shoulders,35.0,7
+2023-07-01,Barbell Squat,Legs,70.0,5
+2023-07-01,Flat Barbell Bench Press,Chest,50.0,5
+2023-07-01,Flat Barbell Bench Press,Chest,50.0,6
+2023-07-01,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),77.5,5
+2023-07-01,Deadlift,Legs and Back (Deadlift(variation)),77.5,5
+2023-07-03,Barbell Squat,Legs,72.5,5
+2023-07-03,Overhead Press,Shoulders,37.5,5
+2023-07-03,Overhead Press,Shoulders,37.5,6
+2023-07-06,Barbell Front Squat,Legs,67.5,3
+2023-07-06,Flat Barbell Bench Press,Chest,50.0,5
+2023-07-06,Flat Barbell Bench Press,Chest,50.0,8
+2023-07-06,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-07-08,Barbell Squat,Legs,75.0,5
+2023-07-08,Overhead Press,Shoulders,40.0,4
+2023-07-08,Overhead Press,Shoulders,40.0,1
+2023-07-08,Overhead Press,Shoulders,32.5,8
+2023-07-08,Overhead Press,Shoulders,32.5,3
+2023-07-08,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),72.5,8
+2023-07-08,Deadlift,Legs and Back (Deadlift(variation)),72.5,5
+2023-07-10,Barbell Squat,Legs,77.5,5
+2023-07-10,Flat Barbell Bench Press,Chest,52.5,5
+2023-07-10,Flat Barbell Bench Press,Chest,52.5,4
+2023-07-12,Barbell Front Squat,Legs,70.0,3
+2023-07-12,Overhead Press,Shoulders,37.5,5
+2023-07-12,Deadlift,Legs and Back (Deadlift(variation)),95.0,5
+2023-07-15,Barbell Squat,Legs,80.0,3
+2023-07-15,Barbell Squat,Legs,72.5,4
+2023-07-15,Barbell Front Squat,Legs,52.5,5
+2023-07-15,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),80.0,5
+2023-07-15,Deadlift,Legs and Back (Deadlift(variation)),72.5,8
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,10
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,7
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,6
+2023-07-15,Flat Barbell Bench Press,Chest,42.5,5
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,6
+2023-07-17,Flat Dumbbell Bench Press,Chest,17.5,8
+2023-07-17,Deadlift,Legs and Back (Deadlift(variation)),97.5,5
+2023-07-17,Barbell Front Squat,Legs,60.0,6
+2023-07-17,Barbell Front Squat,Legs,60.0,4
+2023-07-17,Barbell Front Squat,Legs,60.0,2
+2023-07-19,Barbell Squat,Legs,72.5,5
+2023-07-19,Barbell Front Squat,Legs,55.0,8
+2023-07-21,Deadlift,Legs and Back (Deadlift(variation)),100.0,5
+2023-07-21,Deadlift,Legs and Back (Deadlift(variation)),82.5,8
+2023-07-21,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),82.5,5
+2023-07-21,Incline Dumbbell Bench Press,Chest,17.5,10
+2023-07-21,Lat Pulldown,Back,55.0,10
+2023-07-21,Lat Pulldown,Back,55.0,8
+2023-07-21,Lat Pulldown,Back,50.0,10
+2023-07-21,Overhead Press,Shoulders,27.5,10
+2023-07-21,Overhead Press,Shoulders,27.5,8
+2023-07-24,Overhead Press,Shoulders,37.5,5
+2023-07-24,Overhead Press,Shoulders,37.5,4
+2023-07-31,Barbell Squat,Legs,67.5,5
+2023-07-31,Barbell Front Squat,Legs,62.5,5
+2023-07-31,Incline Dumbbell Bench Press,Chest,17.5,10
+2023-07-31,Incline Dumbbell Bench Press,Chest,17.5,7
+2023-07-31,Romanian Deadlift,Legs,60.0,10
+2023-07-31,Romanian Deadlift,Legs,60.0,12
+2023-08-04,Barbell Front Squat,Legs,67.5,5
+2023-09-02,Barbell Front Squat,Legs,70.0,5
+2023-09-02,Barbell Front Squat,Legs,70.0,3
+2023-09-02,Barbell Front Squat,Legs,70.0,2
+2023-09-02,Barbell Squat,Legs,67.5,4
+2023-09-02,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-04,Barbell Squat,Legs,75.0,5
+2023-09-04,Overhead Press,Shoulders,37.5,5
+2023-09-04,Pendlay Row,Back,42.5,10
+2023-09-04,Romanian Deadlift,Legs,42.5,10
+2023-09-06,Barbell Squat,Legs,77.5,5
+2023-09-06,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-08,Barbell Squat,Legs,80.0,5
+2023-09-08,Overhead Press,Shoulders,40.0,5
+2023-09-08,Overhead Press,Shoulders,40.0,4
+2023-09-08,Deadlift,Legs and Back (Deadlift(variation)),92.5,3
+2023-09-11,Barbell Squat,Legs,82.5,5
+2023-09-11,Barbell Squat,Legs,82.5,2
+2023-09-11,Barbell Front Squat,Legs,62.5,5
+2023-09-11,Flat Barbell Bench Press,Chest,52.5,5
+2023-09-13,Barbell Front Squat,Legs,67.5,5
+2023-09-13,Barbell Squat,Legs,52.5,15
+2023-09-13,Overhead Press,Shoulders,40.0,5
+2023-09-15,Barbell Squat,Legs,77.5,5
+2023-09-15,Barbell Squat,Legs,80.0,5
+2023-09-15,Barbell Front Squat,Legs,62.5,7
+2023-09-15,Barbell Front Squat,Legs,62.5,5
+2023-09-18,Barbell Squat,Legs,62.5,5
+2023-09-18,Barbell Squat,Legs,67.5,1
+2023-09-18,Barbell Squat,Legs,72.5,1
+2023-09-18,Barbell Squat,Legs,77.5,1
+2023-09-18,Barbell Squat,Legs,82.5,1
+2023-09-18,Barbell Squat,Legs,87.5,1
+2023-09-18,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-09-18,Flat Dumbbell Bench Press,Chest,17.5,11
+2023-09-18,Flat Dumbbell Bench Press,Chest,20.0,8
+2023-09-19,Deadlift,Legs and Back (Deadlift(variation)),92.5,5
+2023-09-21,Barbell Squat,Legs,72.5,3
+2023-09-21,Barbell Squat,Legs,82.5,1
+2023-09-21,Barbell Squat,Legs,87.5,1
+2023-09-21,Barbell Squat,Legs,72.5,5
+2023-09-21,Overhead Press,Shoulders,37.5,4
+2023-09-21,Overhead Press,Shoulders,37.5,5
+2023-09-21,Overhead Press,Shoulders,37.5,3
+2023-09-21,Incline Dumbbell Bench Press,Chest,17.5,8
+2023-09-22,Snatch-Grip Deadlift,Legs and Back (Deadlift(variation)),82.5,5
+2023-09-25,Barbell Front Squat,Legs,70.0,5
+2023-09-25,Barbell Squat,Legs,52.5,20
+2023-09-26,Push Press,Shoulders,42.5,5
+2023-09-26,Push Press,Shoulders,42.5,4
+2023-09-27,Barbell Squat,Legs,77.5,3
+2023-09-27,Barbell Squat,Legs,72.5,4
+2023-09-27,Barbell Squat,Legs,72.5,5
+2023-09-27,Barbell Squat,Legs,62.5,8
+2023-09-27,Barbell Front Squat,Legs,42.5,15
+2023-09-27,Flat Dumbbell Bench Press,Chest,17.5,10
+2023-09-27,Flat Dumbbell Bench Press,Chest,20.0,6
+2023-09-27,Flat Dumbbell Bench Press,Chest,20.0,5
+2023-09-27,Pendlay Row,Back,50.0,7
+2023-09-27,Pendlay Row,Back,40.0,10
+2023-09-27,Pendlay Row,Back,40.0,12
+2023-09-30,Barbell Squat,Legs,80.0,5
+2023-09-30,Overhead Press,Shoulders,32.5,8
+2023-09-30,Overhead Press,Shoulders,32.5,6
+2023-09-30,Push Press,Shoulders,37.5,5
+2023-09-30,Push Press,Shoulders,42.5,3
+2023-09-30,Lat Pulldown,Back,55.0,9
+2023-09-30,Lat Pulldown,Back,55.0,7
+2023-10-02,Barbell Front Squat,Legs,72.5,5
+2023-10-02,Flat Barbell Bench Press,Chest,52.5,5
+2023-10-02,Flat Barbell Bench Press,Chest,52.5,7
+2023-10-09,Barbell Squat,Legs,72.5,5
+2023-10-09,Barbell Squat,Legs,72.5,3
+2023-10-09,Barbell Squat,Legs,72.5,1
+2023-10-09,Overhead Press,Shoulders,32.5,10
+2023-10-09,Overhead Press,Shoulders,32.5,8
+2023-10-09,Overhead Press,Shoulders,32.5,7
